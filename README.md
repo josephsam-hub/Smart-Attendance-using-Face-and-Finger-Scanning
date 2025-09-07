@@ -27,14 +27,23 @@ Libraries: OpenCV, dlib, face_recognition, Tkinter, sqlite3, pandas, xlwt
 Hardware Support: Fingerprint Scanner Module (e.g., R305, Digital Persona)
 
 📂 Project Structure
+
 Smart-Attendance-using-Face-and-Finger-Scanning/
+
 │── face_dataset/        # Registered user face images
+
 │── attendance/          # Attendance records (CSV/Excel)
+
 │── database/            # SQLite DB files
+
 │── gui/                 # GUI scripts
+
 │── models/              # Pre-trained models for face recognition
+
 │── app.py               # Main application script
+
 │── requirements.txt     # Dependencies
+
 │── README.md            # Project documentation
 
 ⚙️ Installation
@@ -42,6 +51,7 @@ Smart-Attendance-using-Face-and-Finger-Scanning/
 Clone this repository
 
 git clone https://github.com/josephsam-hub/Smart-Attendance-using-Face-and-Finger-Scanning.git
+
 cd Smart-Attendance-using-Face-and-Finger-Scanning
 
 
