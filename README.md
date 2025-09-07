@@ -4,19 +4,19 @@ Smart Attendance System using Face and Finger Scanning
 
 📌 Features
 
-✅ Face Recognition – Real-time detection and recognition of registered users.
+✅ Face Recognition – Real-time detection and recognition of registered users
 
-✅ Fingerprint Scanning – Biometric authentication for accurate identification.
+✅ Fingerprint Scanning – Biometric authentication for accurate identification
 
-✅ Dual Authentication – Option to mark attendance using face, fingerprint, or both.
+✅ Dual Authentication – Option to mark attendance using face, fingerprint, or both
 
-✅ Attendance Storage – Data stored securely in SQLite/Excel/CSV formats.
+✅ Attendance Storage – Data stored securely in SQLite/Excel/CSV formats
 
-✅ GUI Dashboard – Easy-to-use interface for Admins and Students.
+✅ GUI Dashboard – Easy-to-use interface for Admins and Students
 
-✅ Admin Panel – Manage users, view reports, and export attendance.
+✅ Admin Panel – Manage users, view reports, and export attendance
 
-✅ Voice/Beep Feedback – Alerts when attendance is marked successfully.
+✅ Voice/Beep Feedback – Alerts when attendance is marked successfully
 
 🏗️ Tech Stack
 
@@ -50,7 +50,7 @@ Install dependencies
 pip install -r requirements.txt
 
 
-Connect and configure the Fingerprint Scanner.
+Connect and configure the Fingerprint Scanner
 
 Run the application
 
@@ -58,13 +58,11 @@ python app.py
 
 🎯 Usage
 
-Register Students/Employees with face and fingerprint.
+Register Students/Employees with face and fingerprint
 
-Start Attendance Session – System automatically marks attendance.
+Start Attendance Session – System automatically marks attendance
 
-View Attendance Reports – Export data to CSV/Excel for analysis.
-
-(Add GUI/working screenshots here)
+View Attendance Reports – Export data to CSV/Excel for analysis
 
 👨‍💻 Contributors
 
