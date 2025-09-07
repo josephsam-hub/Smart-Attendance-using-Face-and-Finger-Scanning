@@ -1,12 +1,10 @@
-Smart Attendance System using Face and Finger Scanning
+Smart Attendance System using Face
 
 🚀 A modern attendance monitoring system that integrates Face Recognition and Fingerprint Scanning for secure and automated student/employee attendance.
 
 📌 Features
 
 ✅ Face Recognition – Real-time detection and recognition of registered users
-
-✅ Fingerprint Scanning – Biometric authentication for accurate identification
 
 ✅ Dual Authentication – Option to mark attendance using face, fingerprint, or both
 
